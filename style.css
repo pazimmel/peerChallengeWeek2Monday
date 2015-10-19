@@ -1,0 +1,31 @@
+.generateDigits {
+	display:block;
+	text-align: center;
+	margin: 0 auto;
+	background-color: #28BDA3;
+	height: 40px;
+	font-size: 24px;
+	border-radius: 7px;
+}
+body {
+	background-color: 6269D0;
+}
+
+.property {
+	background-color: white;
+	text-align: center;
+	font-size:18px;
+	font-family: Helvetica;
+}
+.property p {
+	display:inline-block;
+	padding: 10px 50px;
+	text-align: center;
+}
+
+.removeButton {
+	background-color: #28BDA3;
+	border-radius: 7px;
+	height: 26px;
+	font-size: 18px;
+}
